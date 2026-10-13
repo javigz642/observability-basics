@@ -1,0 +1,75 @@
+fecha,proyecto,empleado,rol,tarea,horas,facturable
+2026-09-21,Atlas,Javier,Jefe de proyecto,Planificación,4,sí
+2026-09-21,Hermes,Javier,Jefe de proyecto,Planificación,3.5,no
+2026-09-21,Atlas,Lucía,Desarrolladora,Desarrollo,4,sí
+2026-09-21,Hermes,Lucía,Desarrolladora,Reunión,3,no
+2026-09-21,Atlas,Marcos,Desarrollador,Desarrollo,7.5,sí
+2026-09-21,Orion,Diego,QA,Testing,4,sí
+2026-09-21,Atlas,Diego,QA,Testing,3.5,sí
+2026-09-22,Atlas,Lucía,Desarrolladora,Desarrollo,6,sí
+2026-09-22,Hermes,Lucía,Desarrolladora,Reunión,2,no
+2026-09-22,Orion,Marcos,Desarrollador,Desarrollo,7.5,sí
+2026-09-22,Atlas,Ana,Diseñadora,Diseño,6,sí
+2026-09-22,Hermes,Ana,Diseñadora,Diseño,2.5,no
+2026-09-22,Atlas,Diego,QA,Testing,6,sí
+2026-09-22,Orion,Diego,QA,Documentación,2.5,sí
+2026-09-23,Hermes,Javier,Jefe de proyecto,Planificación,7.5,no
+2026-09-23,Atlas,Lucía,Desarrolladora,Desarrollo,5,sí
+2026-09-23,Hermes,Lucía,Desarrolladora,Reunión,2,no
+2026-09-23,Atlas,Marcos,Desarrollador,Desarrollo,7,sí
+2026-09-23,Orion,Ana,Diseñadora,Diseño,8,sí
+2026-09-23,Atlas,Diego,QA,Testing,5,sí
+2026-09-23,Orion,Diego,QA,Documentación,2,sí
+2026-09-24,Atlas,Javier,Jefe de proyecto,Planificación,8,sí
+2026-09-24,Atlas,Lucía,Desarrolladora,Desarrollo,5,sí
+2026-09-24,Hermes,Lucía,Desarrolladora,Reunión,3,no
+2026-09-24,Orion,Marcos,Desarrollador,Desarrollo,5.5,sí
+2026-09-24,Atlas,Marcos,Desarrollador,Documentación,2.5,sí
+2026-09-24,Atlas,Ana,Diseñadora,Diseño,5,sí
+2026-09-24,Hermes,Ana,Diseñadora,Diseño,2,no
+2026-09-24,Atlas,Diego,QA,Testing,4.5,sí
+2026-09-24,Orion,Diego,QA,Documentación,3.5,sí
+2026-09-25,Orion,Javier,Jefe de proyecto,Planificación,8,sí
+2026-09-25,Atlas,Lucía,Desarrolladora,Desarrollo,5.5,sí
+2026-09-25,Hermes,Lucía,Desarrolladora,Desarrollo,2.5,no
+2026-09-25,Orion,Marcos,Desarrollador,Desarrollo,7.5,sí
+2026-09-25,Atlas,Ana,Diseñadora,Diseño,5,sí
+2026-09-25,Hermes,Ana,Diseñadora,Reunión,2,no
+2026-09-28,Orion,Javier,Jefe de proyecto,Planificación,4.5,sí
+2026-09-28,Hermes,Javier,Jefe de proyecto,Planificación,3.5,no
+2026-09-28,Atlas,Lucía,Desarrolladora,Desarrollo,5.5,sí
+2026-09-28,Hermes,Lucía,Desarrolladora,Desarrollo,3.0,no
+2026-09-28,Orion,Marcos,Desarrollador,Desarrollo,8,sí
+2026-09-28,Atlas,Diego,QA,Testing,7.5,sí
+2026-09-29,Hermes,Javier,Jefe de proyecto,Planificación,7,no
+2026-09-29,Atlas,Lucía,Desarrolladora,Desarrollo,4.5,sí
+2026-09-29,Hermes,Lucía,Desarrolladora,Reunión,2.5,no
+2026-09-29,Orion,Marcos,Desarrollador,Desarrollo,4,sí
+2026-09-29,Atlas,Marcos,Desarrollador,Desarrollo,4,sí
+2026-09-29,Orion,Ana,Diseñadora,Diseño,5,sí
+2026-09-29,Hermes,Ana,Diseñadora,Diseño,3,no
+2026-09-29,Atlas,Diego,QA,Testing,4.5,sí
+2026-09-29,Orion,Diego,QA,Testing,3.5,sí
+2026-09-30,Atlas,Javier,Jefe de proyecto,Planificación,6,sí
+2026-09-30,Hermes,Javier,Jefe de proyecto,Reunión,2.5,no
+2026-09-30,Atlas,Lucía,Desarrolladora,Desarrollo,4.5,sí
+2026-09-30,Hermes,Lucía,Desarrolladora,Reunión,2.5,no
+2026-09-30,Orion,Marcos,Desarrollador,Desarrollo,6,sí
+2026-09-30,Atlas,Marcos,Desarrollador,Desarrollo,2.5,sí
+2026-09-30,Atlas,Ana,Diseñadora,Diseño,6,sí
+2026-09-30,Hermes,Ana,Diseñadora,Reunión,2,no
+2026-09-30,Atlas,Diego,QA,Testing,7,sí
+2026-10-01,Orion,Javier,Jefe de proyecto,Planificación,5.5,sí
+2026-10-01,Hermes,Javier,Jefe de proyecto,Reunión,2.0,no
+2026-10-01,Atlas,Lucía,Desarrolladora,Desarrollo,8,sí
+2026-10-01,Atlas,Marcos,Desarrollador,Desarrollo,8,sí
+2026-10-01,Atlas,Ana,Diseñadora,Diseño,5,sí
+2026-10-01,Orion,Ana,Diseñadora,Diseño,3.5,sí
+2026-10-01,Orion,Diego,QA,Testing,4.5,sí
+2026-10-01,Atlas,Diego,QA,Documentación,2.5,sí
+2026-10-02,Hermes,Javier,Jefe de proyecto,Planificación,8,no
+2026-10-02,Atlas,Lucía,Desarrolladora,Desarrollo,4.5,sí
+2026-10-02,Hermes,Lucía,Desarrolladora,Desarrollo,3.5,no
+2026-10-02,Atlas,Ana,Diseñadora,Diseño,5,sí
+2026-10-02,Orion,Ana,Diseñadora,Diseño,3,sí
+2026-10-02,Orion,Diego,QA,Testing,7.5,sí

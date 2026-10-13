@@ -1,0 +1,17 @@
+# Claves privadas (se sube .env.example como plantilla)
+.env
+
+# Entorno virtual
+.venv/
+venv/
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Salidas generadas al ejecutar las evaluaciones (se regeneran; el README resume los resultados)
+detalle_evaluacion*.txt
+
+# Configuracion local del editor y del sistema
+.vscode/
+.DS_Store
